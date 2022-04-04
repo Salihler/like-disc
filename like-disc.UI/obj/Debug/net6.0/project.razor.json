@@ -111,39 +111,6 @@
         }
       },
       {
-        "HashCode": 344942088,
-        "Kind": "Components.Component",
-        "Name": "like_disc.UI.App",
-        "AssemblyName": "like-disc.UI",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.App"
-        }
-      },
-      {
-        "HashCode": 664695237,
-        "Kind": "Components.Component",
-        "Name": "like_disc.UI.App",
-        "AssemblyName": "like-disc.UI",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "like_disc.UI.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 208544357,
         "Kind": "Components.Component",
         "Name": "like_disc.UI.Shared.SurveyPrompt",
@@ -193,6 +160,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "like_disc.UI.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1088965314,
+        "Kind": "Components.Component",
+        "Name": "like_disc.UI.Shared.NavMenu",
+        "AssemblyName": "like-disc.UI",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.UI.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -872905445,
+        "Kind": "Components.Component",
+        "Name": "like_disc.UI.Shared.NavMenu",
+        "AssemblyName": "like-disc.UI",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "like_disc.UI.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.UI.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -293,35 +293,35 @@
         }
       },
       {
-        "HashCode": -1088965314,
+        "HashCode": 344942088,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.NavMenu",
+        "Name": "like_disc.UI.App",
         "AssemblyName": "like-disc.UI",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.NavMenu"
+          "Common.TypeName": "like_disc.UI.App"
         }
       },
       {
-        "HashCode": -872905445,
+        "HashCode": 664695237,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.NavMenu",
+        "Name": "like_disc.UI.App",
         "AssemblyName": "like-disc.UI",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.UI.Shared.NavMenu"
+            "TagName": "like_disc.UI.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.NavMenu",
+          "Common.TypeName": "like_disc.UI.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16620,6 +16620,11 @@
       "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\Comingsoon.cshtml",
+      "TargetPath": "Pages\\Comingsoon.cshtml",
+      "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Shared\\SurveyPrompt.razor",

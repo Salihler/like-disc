@@ -1,0 +1,7 @@
+C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\like-disc\like-disc.UI\bin\Debug\net6.0\publish\like-disc.UI.exe
+C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\like-disc\like-disc.UI\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\like-disc\like-disc.UI\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\like-disc\like-disc.UI\bin\Debug\net6.0\publish\like-disc.UI.dll
+C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\like-disc\like-disc.UI\bin\Debug\net6.0\publish\like-disc.UI.deps.json
+C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\like-disc\like-disc.UI\bin\Debug\net6.0\publish\like-disc.UI.runtimeconfig.json
+C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\like-disc\like-disc.UI\bin\Debug\net6.0\publish\like-disc.UI.pdb
