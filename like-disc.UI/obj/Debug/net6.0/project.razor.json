@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
+  "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16612,64 +16612,64 @@
   "RootNamespace": "like_disc.UI",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\Comingsoon.cshtml",
-      "TargetPath": "Pages\\Comingsoon.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\Index.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\_Layout.cshtml",
-      "TargetPath": "Pages\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Comingsoon.cshtml",
+      "TargetPath": "Pages\\Comingsoon.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\_Layout.cshtml",
+      "TargetPath": "Pages\\_Layout.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
