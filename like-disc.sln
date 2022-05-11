@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "like-disc.Core", "like-disc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "like-disc.Service", "like-disc.Service\like-disc.Service.csproj", "{91F3410B-9208-4E09-B58D-FFAFC25B407D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "like-disc.Ui", "like-disc.Ui\like-disc.Ui.csproj", "{ACBD286F-FCB5-4679-A6C2-AFD5ADFACD5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "like-disc.Ui", "like-disc.Ui\like-disc.Ui.csproj", "{06B01452-853D-41FE-999A-2340CF2523CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +30,9 @@ Global
 		{ACBD286F-FCB5-4679-A6C2-AFD5ADFACD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACBD286F-FCB5-4679-A6C2-AFD5ADFACD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACBD286F-FCB5-4679-A6C2-AFD5ADFACD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B01452-853D-41FE-999A-2340CF2523CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B01452-853D-41FE-999A-2340CF2523CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B01452-853D-41FE-999A-2340CF2523CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B01452-853D-41FE-999A-2340CF2523CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

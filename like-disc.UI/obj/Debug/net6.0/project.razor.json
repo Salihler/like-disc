@@ -111,6 +111,39 @@
         }
       },
       {
+        "HashCode": -353131608,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.App",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.App"
+        }
+      },
+      {
+        "HashCode": -1430224969,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.App",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "like_disc.Ui.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -418498111,
         "Kind": "Components.Component",
         "Name": "like_disc.Ui.Shared.SurveyPrompt",
