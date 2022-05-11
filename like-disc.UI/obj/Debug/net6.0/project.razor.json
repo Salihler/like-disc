@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
+  "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\like-disc.Ui.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -12,10 +12,10 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1006718873,
+        "HashCode": 240125378,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Pages.Counter",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Pages.Counter",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -24,31 +24,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Pages.Counter"
+          "Common.TypeName": "like_disc.Ui.Pages.Counter"
         }
       },
       {
-        "HashCode": 1089457666,
+        "HashCode": 1131256633,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Pages.Counter",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Pages.Counter",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.UI.Pages.Counter"
+            "TagName": "like_disc.Ui.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Pages.Counter",
+          "Common.TypeName": "like_disc.Ui.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -246335347,
+        "HashCode": 2108017701,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Pages.FetchData",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Pages.FetchData",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -57,31 +57,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Pages.FetchData"
+          "Common.TypeName": "like_disc.Ui.Pages.FetchData"
         }
       },
       {
-        "HashCode": 1422266270,
+        "HashCode": 1278609985,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Pages.FetchData",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Pages.FetchData",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.UI.Pages.FetchData"
+            "TagName": "like_disc.Ui.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Pages.FetchData",
+          "Common.TypeName": "like_disc.Ui.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1467563296,
+        "HashCode": -1848426321,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Pages.Index",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Pages.Index",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -90,64 +90,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Pages.Index"
+          "Common.TypeName": "like_disc.Ui.Pages.Index"
         }
       },
       {
-        "HashCode": 239846047,
+        "HashCode": -1481297498,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Pages.Index",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Pages.Index",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.UI.Pages.Index"
+            "TagName": "like_disc.Ui.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Pages.Index",
+          "Common.TypeName": "like_disc.Ui.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 344942088,
+        "HashCode": -418498111,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.App",
-        "AssemblyName": "like-disc.UI",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.App"
-        }
-      },
-      {
-        "HashCode": 664695237,
-        "Kind": "Components.Component",
-        "Name": "like_disc.UI.App",
-        "AssemblyName": "like-disc.UI",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "like_disc.UI.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 208544357,
-        "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.SurveyPrompt",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.SurveyPrompt",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -166,18 +133,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.SurveyPrompt"
+          "Common.TypeName": "like_disc.Ui.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 1149138888,
+        "HashCode": -628812465,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.SurveyPrompt",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.SurveyPrompt",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.UI.Shared.SurveyPrompt"
+            "TagName": "like_disc.Ui.Shared.SurveyPrompt"
           }
         ],
         "BoundAttributes": [
@@ -192,15 +159,15 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.SurveyPrompt",
+          "Common.TypeName": "like_disc.Ui.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 983603953,
+        "HashCode": -1996410423,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.MainLayout",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.MainLayout",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -221,18 +188,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.MainLayout"
+          "Common.TypeName": "like_disc.Ui.Shared.MainLayout"
         }
       },
       {
-        "HashCode": 119041270,
+        "HashCode": -1677809725,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.MainLayout",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.MainLayout",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.UI.Shared.MainLayout"
+            "TagName": "like_disc.Ui.Shared.MainLayout"
           }
         ],
         "BoundAttributes": [
@@ -249,15 +216,15 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.MainLayout",
+          "Common.TypeName": "like_disc.Ui.Shared.MainLayout",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1599545407,
+        "HashCode": -1230945334,
         "Kind": "Components.ChildContent",
-        "Name": "like_disc.UI.Shared.MainLayout.Body",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.MainLayout.Body",
+        "AssemblyName": "like-disc.Ui",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -268,35 +235,35 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "like_disc.UI.Shared.MainLayout.Body",
+          "Common.TypeName": "like_disc.Ui.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent"
         }
       },
       {
-        "HashCode": 1509175079,
+        "HashCode": -907458744,
         "Kind": "Components.ChildContent",
-        "Name": "like_disc.UI.Shared.MainLayout.Body",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.MainLayout.Body",
+        "AssemblyName": "like-disc.Ui",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
             "TagName": "Body",
-            "ParentTag": "like_disc.UI.Shared.MainLayout"
+            "ParentTag": "like_disc.Ui.Shared.MainLayout"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "like_disc.UI.Shared.MainLayout.Body",
+          "Common.TypeName": "like_disc.Ui.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1088965314,
+        "HashCode": -865885010,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.NavMenu",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.NavMenu",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -305,23 +272,23 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.NavMenu"
+          "Common.TypeName": "like_disc.Ui.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -872905445,
+        "HashCode": -703860215,
         "Kind": "Components.Component",
-        "Name": "like_disc.UI.Shared.NavMenu",
-        "AssemblyName": "like-disc.UI",
+        "Name": "like_disc.Ui.Shared.NavMenu",
+        "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.UI.Shared.NavMenu"
+            "TagName": "like_disc.Ui.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.UI.Shared.NavMenu",
+          "Common.TypeName": "like_disc.Ui.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16609,65 +16576,65 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "like_disc.UI",
+  "RootNamespace": "like_disc.Ui",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Index.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\_Imports.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Counter.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\Comingsoon.cshtml",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\Comingsoon.cshtml",
       "TargetPath": "Pages\\Comingsoon.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\App.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\FetchData.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Shared\\SurveyPrompt.razor",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\Pages\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\_Layout.cshtml",
       "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
     }

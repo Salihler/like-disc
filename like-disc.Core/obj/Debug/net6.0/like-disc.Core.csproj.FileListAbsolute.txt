@@ -1,0 +1,12 @@
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\bin\Debug\net6.0\like-disc.Core.deps.json
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\bin\Debug\net6.0\like-disc.Core.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\bin\Debug\net6.0\like-disc.Core.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\like-disc.Core.csproj.AssemblyReference.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\like-disc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\like-disc.Core.AssemblyInfoInputs.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\like-disc.Core.AssemblyInfo.cs
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\like-disc.Core.csproj.CoreCompileInputs.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\like-disc.Core.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\refint\like-disc.Core.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\like-disc.Core.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Core\obj\Debug\net6.0\ref\like-disc.Core.dll

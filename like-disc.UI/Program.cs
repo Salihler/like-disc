@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using like_disc.UI.Data;
+using like_disc.Ui.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

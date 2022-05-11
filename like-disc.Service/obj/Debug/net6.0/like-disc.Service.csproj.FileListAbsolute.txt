@@ -1,0 +1,15 @@
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\bin\Debug\net6.0\like-disc.Service.deps.json
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\bin\Debug\net6.0\like-disc.Service.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\bin\Debug\net6.0\like-disc.Service.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\bin\Debug\net6.0\like-disc.Core.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\bin\Debug\net6.0\like-disc.Core.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.csproj.AssemblyReference.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.AssemblyInfoInputs.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.AssemblyInfo.cs
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.csproj.CoreCompileInputs.cache
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.csproj.CopyComplete
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\refint\like-disc.Service.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\like-disc.Service.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Service\obj\Debug\net6.0\ref\like-disc.Service.dll

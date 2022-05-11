@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\erens\\.nuget\\packages\\": {}
+    "C:\\Users\\eren.salihler\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
-      "projectName": "like-disc.UI",
-      "projectPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
-      "packagesPath": "C:\\Users\\erens\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\obj\\",
+      "projectUniqueName": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\like-disc.Ui.csproj",
+      "projectName": "like-disc.Ui",
+      "projectPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\like-disc.Ui.csproj",
+      "packagesPath": "C:\\Users\\eren.salihler\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\erens\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\eren.salihler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

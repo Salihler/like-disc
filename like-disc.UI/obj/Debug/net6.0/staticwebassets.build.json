@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9LV2wpVa8xUoFYNJHPhgFk78wgD9R+bCj22eVJbJY+s=",
+  "Hash": "8ydeaSPD+AjvRT1WB91UhV7ndMqdXNI+Fu/vK4FatHg=",
   "Source": "like-disc.UI",
   "BasePath": "_content/like-disc.UI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "like-disc.UI\\wwwroot",
       "Source": "like-disc.UI",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\like-disc.UI.styles.css",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\like-disc.UI.styles.css",
       "SourceId": "like-disc.UI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "like-disc.UI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\like-disc.UI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\like-disc.UI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\like-disc.UI.bundle.scp.css",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\like-disc.UI.bundle.scp.css",
       "SourceId": "like-disc.UI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "like-disc.UI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\like-disc.UI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\like-disc.UI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\comingsoon\\img\\background.jpg",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\comingsoon\\img\\background.jpg",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "comingsoon/img/background.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\comingsoon\\img\\background.jpg"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\comingsoon\\scripts\\bundle.js",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\comingsoon\\scripts\\bundle.js",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "comingsoon/scripts/bundle.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\comingsoon\\scripts\\bundle.js"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\comingsoon\\styles\\main.css",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\comingsoon\\styles\\main.css",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "comingsoon/styles/main.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\comingsoon\\styles\\main.css"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -136,27 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
-      "BasePath": "_content/like-disc.UI",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "SourceId": "like-disc.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -204,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -221,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -238,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -255,10 +238,27 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
+      "BasePath": "_content/like-disc.UI",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "like-disc.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\css\\site.css",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\favicon.ico",
       "SourceId": "like-disc.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\wwwroot\\",
       "BasePath": "_content/like-disc.UI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -321,23 +321,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\index.html",
-      "SourceId": "like-disc.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\like-disc\\like-disc.UI\\wwwroot\\",
-      "BasePath": "_content/like-disc.UI",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
     }
   ]
 }

@@ -1,4 +1,4 @@
-namespace like_disc.UI.Data;
+namespace like_disc.Ui.Data;
 
 public class WeatherForecastService
 {
