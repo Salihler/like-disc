@@ -1,0 +1,49 @@
+@page "/albums"
+@using System.Text.Json
+@using System.Text.Json.Serialization;
+@using Core.Models
+@using System.Net.Http.Headers
+@inject IHttpClientFactory ClientFactory
+
+<h1>Call web API from a Blazor Server Razor component</h1>
+
+@if (getAlbumsError)
+{
+    <p>Unable to get albums from spotify. Please try again later.</p>
+}
+else
+{
+    <p>Album Name is : @album.Name</p>
+}
+
+@code {
+    private Album album = new();
+    private bool getAlbumsError;
+    private bool shouldRender;
+
+    protected override bool ShouldRender() => shouldRender;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var request = new HttpRequestMessage(HttpMethod.Get,
+            "https://api.spotify.com/v1/albums/4aawyAB9vmqN3uQ7FjRGTy");
+        request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", "BQDiVnMxuQq50RejJphldTD35IdK4UaJXpKPe2V7eUWc4HESeGzS96etAqprtc_cYYBShVNwjb4h8AQGalr7PP1t4Xu5yLjmPBVawz_uh");
+        request.Headers.Add("Accept", "application/json");
+        request.Headers.Add("User-Agent", "HttpClientFactory-Sample");
+        var client = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+
+        if (response.IsSuccessStatusCode)
+        {
+            using var responseStream = await response.Content.ReadAsStreamAsync();
+            album = await JsonSerializer.DeserializeAsync<Album>(responseStream);
+        }
+        else
+        {
+            getAlbumsError = true;
+        }
+
+        shouldRender = true;
+    }
+}

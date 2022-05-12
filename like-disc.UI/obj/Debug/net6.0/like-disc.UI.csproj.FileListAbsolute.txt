@@ -25,3 +25,6 @@ C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Ui\obj\Deb
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Ui\obj\Debug\net6.0\like-disc.Ui.pdb
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Ui\obj\Debug\net6.0\like-disc.Ui.genruntimeconfig.cache
 C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.Ui\obj\Debug\net6.0\ref\like-disc.Ui.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.UI\bin\Debug\net6.0\like-disc.Core.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.UI\bin\Debug\net6.0\like-disc.Core.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\like-disc\like-disc.UI\obj\Debug\net6.0\like-disc.UI.csproj.CopyComplete

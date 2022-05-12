@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "like-disc.UI/1.0.0": {
+        "dependencies": {
+          "like-disc.Core": "1.0.0"
+        },
         "runtime": {
           "like-disc.UI.dll": {}
+        }
+      },
+      "like-disc.Core/1.0.0": {
+        "runtime": {
+          "like-disc.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "like-disc.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "like-disc.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

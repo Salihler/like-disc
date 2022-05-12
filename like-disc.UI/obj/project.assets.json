@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "like-disc.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/like-disc.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/like-disc.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "like-disc.Core/1.0.0": {
+      "type": "project",
+      "path": "../like-disc.Core/like-disc.Core.csproj",
+      "msbuildProject": "../like-disc.Core/like-disc.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "like-disc.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\eren.salihler\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\like-disc.Ui.csproj",
-      "projectName": "like-disc.Ui",
-      "projectPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\like-disc.Ui.csproj",
+      "projectUniqueName": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
+      "projectName": "like-disc.UI",
+      "projectPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
       "packagesPath": "C:\\Users\\eren.salihler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\obj\\",
+      "outputPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -36,7 +55,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Core\\like-disc.Core.csproj": {
+              "projectPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Core\\like-disc.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
