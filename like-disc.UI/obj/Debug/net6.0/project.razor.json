@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1848426321,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.Pages.Index",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1481297498,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.Pages.Index",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "like_disc.Ui.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 240125378,
         "Kind": "Components.Component",
         "Name": "like_disc.Ui.Pages.Counter",
@@ -78,39 +111,6 @@
         }
       },
       {
-        "HashCode": -1848426321,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Pages.Index",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1481297498,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Pages.Index",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "like_disc.Ui.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 720232626,
         "Kind": "Components.Component",
         "Name": "like_disc.Ui.Pages.Albums",
@@ -140,39 +140,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "like_disc.Ui.Pages.Albums",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -353131608,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.App",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.App"
-        }
-      },
-      {
-        "HashCode": -1430224969,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.App",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "like_disc.Ui.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -355,6 +322,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "like_disc.Ui.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -353131608,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.App",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.App"
+        }
+      },
+      {
+        "HashCode": -1430224969,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.App",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "like_disc.Ui.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

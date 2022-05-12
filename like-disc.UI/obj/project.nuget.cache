@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4KgcOxvH/2DK8JsY1XRDbEAz2OAgssJdqFpbMkJY6q7pFGbI9YGKpTrUXH4I/C8Uvr6WqmI8kGpzwQKBIFNqNw==",
+  "dgSpecHash": "REBKL3uCgHweRfHDNJ53hD8roC4qqaSObWBe0scsALqgRFSzz1v1z93NZcMrXXFrw7N88BxxlW6/v97AuYDrkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.UI\\like-disc.UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eren.salihler\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
