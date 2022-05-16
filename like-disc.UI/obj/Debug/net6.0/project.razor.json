@@ -12,35 +12,55 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1848426321,
+        "HashCode": 396200849,
         "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Pages.Index",
+        "Name": "like_disc.Ui.Pages.Albums",
         "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Albums"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Param",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Param"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Pages.Index"
+          "Common.TypeName": "like_disc.Ui.Pages.Albums"
         }
       },
       {
-        "HashCode": -1481297498,
+        "HashCode": 1668910690,
         "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Pages.Index",
+        "Name": "like_disc.Ui.Pages.Albums",
         "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.Ui.Pages.Index"
+            "TagName": "like_disc.Ui.Pages.Albums"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Param",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Param"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Pages.Index",
+          "Common.TypeName": "like_disc.Ui.Pages.Albums",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -111,35 +131,121 @@
         }
       },
       {
-        "HashCode": 720232626,
+        "HashCode": -1848426321,
         "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Pages.Albums",
+        "Name": "like_disc.Ui.Pages.Index",
         "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Albums"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Pages.Albums"
+          "Common.TypeName": "like_disc.Ui.Pages.Index"
         }
       },
       {
-        "HashCode": 1789159138,
+        "HashCode": -1481297498,
         "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Pages.Albums",
+        "Name": "like_disc.Ui.Pages.Index",
         "AssemblyName": "like-disc.Ui",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "like_disc.Ui.Pages.Albums"
+            "TagName": "like_disc.Ui.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Pages.Albums",
+          "Common.TypeName": "like_disc.Ui.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -353131608,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.App",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.App"
+        }
+      },
+      {
+        "HashCode": -1430224969,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.App",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "like_disc.Ui.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -418498111,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.Shared.SurveyPrompt",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -628812465,
+        "Kind": "Components.Component",
+        "Name": "like_disc.Ui.Shared.SurveyPrompt",
+        "AssemblyName": "like-disc.Ui",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "like_disc.Ui.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "like_disc.Ui.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -269,92 +375,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "like_disc.Ui.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -418498111,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Shared.SurveyPrompt",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -628812465,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.Shared.SurveyPrompt",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "like_disc.Ui.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -353131608,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.App",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.App"
-        }
-      },
-      {
-        "HashCode": -1430224969,
-        "Kind": "Components.Component",
-        "Name": "like_disc.Ui.App",
-        "AssemblyName": "like-disc.Ui",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "like_disc.Ui.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "like_disc.Ui.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16667,11 +16687,6 @@
     {
       "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\eren.salihler\\Desktop\\projects\\.NET CORE\\like-disc\\like-disc.Ui\\Pages\\Comingsoon.cshtml",
-      "TargetPath": "Pages\\Comingsoon.cshtml",
       "FileKind": "mvc"
     },
     {

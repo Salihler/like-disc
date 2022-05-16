@@ -1,8 +1,12 @@
-@page "/albums"
+@page "/albums/{param?}"
 @using Core.Models
 @using System.Net.Http.Headers
 @using Newtonsoft.Json
 @inject IHttpClientFactory ClientFactory
+
+<p>
+    Param: @Param
+</p>
 
 <h1>Call web API from a Blazor Server Razor component</h1>
 
@@ -12,11 +16,15 @@
 }
 else
 {
-    <p>Album Name is : @album.Name</p>
+    <p>Album Name is : @album.Albums.Name</p>
 }
 
 @code {
-    private Album album = new();
+
+    [Parameter]
+    public string? Param { get; set; }
+
+    private Search album = new();
     private bool getAlbumsError;
     private bool shouldRender;
 
@@ -25,8 +33,8 @@ else
     protected override async Task OnInitializedAsync()
     {
         var request = new HttpRequestMessage(HttpMethod.Get,
-            "https://api.spotify.com/v1/albums/4aawyAB9vmqN3uQ7FjRGTy");
-        request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", "BQC4-JfCqkZO0P3p9wVqn3pI62LYyYL_XXRC-pvCeyYIftxpP-aDvFlpkvTf3hsFYp9a61f4qR2EY10DLrR9lPPsd9ELHF3xNPItvswib_Q90sPjZkAk0A71JIYQ9WbHafmVrBYsFB3b2DQw1Gnx");
+            "https://api.spotify.com/v1/search?q=name:" + @Param + "&type=album");
+        request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", "BQBcScdpOhtif3wjDger0f6aYZbuGD74XJu7oQLvXdKA-oWC7Nyw90YHkpuhD1HXTrYPzbRXnYvgonGRKPLDbFCXlZbUCTBwcYy7l1xU9JiuW5exH37qrxrEJh8InD-tjlQsz7Z53-Bu8RTWMyjU");
         
         var client = ClientFactory.CreateClient();
 
@@ -36,7 +44,7 @@ else
         if (response.IsSuccessStatusCode)
         {
             var responseStream = await response.Content.ReadAsStringAsync();
-            album = JsonConvert.DeserializeObject<Album>(responseStream);
+            album = JsonConvert.DeserializeObject<Search>(responseStream);
         }
         else
         {
