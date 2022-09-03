@@ -1,0 +1,34 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+
+<PageTitle>like-disc</PageTitle>
+
+
+
+@* <SurveyPrompt Title="How is Blazor working for you?" /> *@
+
+
+<div class="container">
+    <div class="row height d-flex justify-content-center align-items-center">
+        <div class="col-md-8">
+            <h1>Like-Disc</h1>
+            <div class="search">
+                <i class="fa fa-search"></i>
+                @parameter
+                <input type="text" class="form-control" placeholder="Search from album's name!" @oninput="@((e) => { parameter=(string)e.Value;})">
+                <button class="btn btn-primary" @onclick="OnClick">Search</button>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+@code {
+
+    private string parameter = "ParameterValue";
+    private void OnClick()
+    {
+        NavigationManager.NavigateTo($"albums/{parameter}");
+    }
+}

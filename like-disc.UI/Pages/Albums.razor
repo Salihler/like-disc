@@ -1,0 +1,28 @@
+@page "/albums/{Id}"
+@using Core.Models
+@using System.Net.Http.Headers
+@using Newtonsoft.Json
+@using like_disc.Core.Services
+@inject ITokenService tokenservice;
+@inject IAlbumService albumService;
+<p>
+    Param: Testy
+</p>
+
+<h1>Call web API from a Blazor Server Razor component</h1>
+
+
+    <p>Album Name is : @token.Access_Token</p>
+
+
+@code {
+    [Parameter]
+    public string Id { get; set; }
+
+    Token token = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        token = await tokenservice.GetToken();
+    }
+}
