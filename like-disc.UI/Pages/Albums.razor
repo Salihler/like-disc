@@ -4,7 +4,7 @@
 @using Newtonsoft.Json
 @using like_disc.Core.Services
 @inject ITokenService tokenservice;
-@inject IAlbumService albumService;
+@inject ISpotifyService<Album> spotifyService;
 <p>
     Param: Testy
 </p>
@@ -12,7 +12,7 @@
 <h1>Call web API from a Blazor Server Razor component</h1>
 
 
-    <p>Album Name is : @token.Access_Token</p>
+    <p>Album Name is : @album.Name</p>
 
 
 @code {
@@ -20,9 +20,12 @@
     public string Id { get; set; }
 
     Token token = new();
+    Album album = new();
 
     protected override async Task OnInitializedAsync()
     {
         token = await tokenservice.GetToken();
+        album = await spotifyService.Get("4aawyAB9vmqN3uQ7FjRGTy", token);
+
     }
 }
